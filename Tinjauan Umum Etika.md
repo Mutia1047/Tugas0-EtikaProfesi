@@ -34,7 +34,7 @@ Setiap bentuk kerja memiliki 4 macam tujuan, yaitu  :
 
 1. Memenuhi kebutuhan hidup. Dengan bekerja orang akan mendapatkan penghasilan yang dengannya manusia dapat memenuhi kebutuhan hidupnya.
 2. Mengurangi tingkat pengangguran dan kriminalitas.
-3. Melayani sesama.
+3. Melayani sesama. Misalnya relawan orang yang bekerja secara sukarela membantu orang lain.
 4. Mengontrol gaya hidup.
 
 
@@ -47,3 +47,5 @@ Profesi merupakan bagian dari pekerjaan, tetapi tidak semua pekerjaan adalah pro
 3. Berfikir sistematis
 4. Penguasaan materi
 5. Menjadi bagian masyarakat profesional 
+
+Jadi, jika kita menggunakan jasa orang berprofesi untuk melakukan kegiatan yang berkaitan dengan keahlian profesi tersebut, maka baiknya kita memberikan penghargaan kepada orang tersebut berupa bayaran uang misalnya. Hal tersebut karena itu merupakan pekerjaan mereka.
