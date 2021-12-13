@@ -13,12 +13,12 @@ Pada dasarnya _netiquette_ merupakan panduan untuk bersikap dan berperilaku sesu
 
 Beberapa aturan yang ada pada _Netiquete_ ini adalah: 
 
-1. Amankan dulu diri anda, maksudnya adalah amankan semua properti, mungkin dapat dimulai dari mengamankan komputer, dengan memasang anti virus atau personal firewall 
-2. Jangan terlalu mudah percaya dengan Internet, sehingga dengan mudah mengupload data pribadi 
+1. Amankan dulu diri Anda, maksudnya adalah amankan semua properti, mungkin dapat dimulai dari mengamankan komputer, dengan memasang anti virus atau personal _firewall_ 
+2. Jangan terlalu mudah percaya dengan internet sehingga dengan mudah meng-_upload_ data pribadi 
 3. Menghargai pengguna lain di internet, caranya sederhana, yaitu : 
    - jangan membiasakan menggunakan informasi secara sembarangan, misalnya plagiat. 
    - jangan berusaha untuk mengambil keuntungan secara ilegal dari Internet, misalnya melakukan kejahatan pencurian no kartu kredit 
    - jangan berusaha mengganggu privasi orang lain, dengan mencoba mencuri informasi yang sebenarnya terbatas. 
    - jangan menggunakan huruf kapital terlalu banyak, karena menyerupai kegiatan teriak-teriak pada komunitas sesungguhnya. 
 
-Pada dasarnya netiquette merupakan panduan untuk bersikap dan berperilaku sesuai dengan kaidah normatif di lingkungan Internet. Dengan mematuhi peraturan ini, maka akan sangat bermanfaat dan membantu dalam berkomunikasi dan berinteraksi dengan orang lain tanpa harus mengalami masalah atau tanpa harus mengalami salah pengertian dengan orang lain. 
+Pada dasarnya _netiquette_ merupakan panduan untuk bersikap dan berperilaku sesuai dengan kaidah normatif di lingkungan Internet. Dengan mematuhi peraturan ini, maka akan sangat bermanfaat dan membantu dalam berkomunikasi dan berinteraksi dengan orang lain tanpa harus mengalami masalah atau tanpa harus mengalami salah pengertian dengan orang lain. 
